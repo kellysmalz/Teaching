@@ -1,9 +1,10 @@
-Runner_ID,	Race_ID,	Name,	Gender,	Age_Group,	Split_1_sec,	Split_2_sec,	Split_3_sec,	Split_4_sec,	Split_5_sec,
-101,	Uchi-5k,	John Doe,	Male,	25-29,	232,	235,	238,	242,	223
-102,	Uchi-5k,	Frank N. Stein,	Male,	30-34,	265,	275,	278,	285,	265
-103,	Uchi-5k,	Betty White,	Female,	40-44,	249,	245,	248,	252,	230
-104,	Uchi-5k,	Marsha Mellow,	Female,	20-24,	278,	305,	308,	310,	282
-105,	Uchi-5k,	Sandy Beach,	Female,	30-34,	298,	225,	230,	235,	215
-106,	Uchi-5k,	Jamie Shortz,	Female,	35-39,	243,	255,	260,	265,	250
-107,	Uchi-5k,	Sal Goodman,	Male,	50-54,	212,	280,	285,	290,	265
-108,	Uchi-5k,	Al Gebra,	Male,	25-29,	298,	250,	255,	260,	240
+Runner_ID, Race_ID,	Name, Gender, Age_Group, Split_1_sec, Split_2_sec, Split_3_sec, Split_4_sec, Split_5_sec,
+101, Uchi-5k, John Doe,	Male, 25-29, 232, 235, 238, 242, 223
+102, Uchi-5k, Frank N. Stein, Male, 30-34, 265, 275, 278, 285, 265
+103, Uchi-5k, Betty White, Female, 40-44, 249, 245, 248, 252, 230
+104, Uchi-5k, Marsha Mellow, Female, 20-24, 278, 305, 308, 310, 282
+105, Uchi-5k, Sandy Beach, Female, 30-34, 298, 225, 230, 235, 215
+106, Uchi-5k, Jamie Shortz, Female, 35-39, 243, 255, 260, 265, 250
+107, Uchi-5k, Sal Goodman, Male, 50-54, 212, 280, 285, 290, 265
+108, Uchi-5k, Al Gebra,	Male, 25-29, 298, 250, 255, 260, 240
+
